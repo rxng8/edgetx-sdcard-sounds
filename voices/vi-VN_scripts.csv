@@ -1,0 +1,180 @@
+﻿String ID,Source text,Translation,Context,Path,Filename
+1,P,P,,BETAFLIGHT,p.wav
+2,I,I,,BETAFLIGHT,i.wav
+3,D,D,,BETAFLIGHT,d.wav
+4,D setpoint,điểm đặt D,,BETAFLIGHT,dsetpt.wav
+5,acro mode,chế độ acro,,INAV,acromd.wav
+6,active,đang hoạt động,,INAV,active.wav
+7,altitude hold,giữ độ cao,,INAV,althld.wav
+8,angle mode,chế độ angle,,INAV,anglmd.wav
+9,battery critical,pin nguy cấp,,INAV,batcrt.wav
+10,Low battery,pin yếu,,INAV,batlow.wav
+11,battery,pin,,INAV,battry.wav
+12,cruise mode,chế độ hành trình,,INAV,cruzmd.wav
+13,danger,nguy hiểm,,INAV,danger.wav
+14,engines armed,động cơ đã kích hoạt,,INAV,engarm.wav
+15,engines disarmed,động cơ đã ngắt kích hoạt,,INAV,engdrm.wav
+16,failsafe off,failsafe tắt,,INAV,fsoff.wav
+17,failsafe on,failsafe bật,,INAV,fson.wav
+18,good,tốt,,INAV,good.wav
+19,GPS,GPS,,INAV,gps.wav
+20,heading hold active,giữ hướng đang hoạt động,,INAV,hedhlda.wav
+21,heading hold,giữ hướng,,INAV,hedhld.wav
+22,headfree active,headfree đang hoạt động,,INAV,hfact.wav
+23,headfree off,headfree tắt,,INAV,hfoff.wav
+24,home reset,đã đặt lại điểm nhà,,INAV,homrst.wav
+25,horizon mode,chế độ horizon,,INAV,hrznmd.wav
+26,lost,mất tín hiệu,,INAV,lost.wav
+27,manual mode,chế độ thủ công,,INAV,manmd.wav
+28,normal,bình thường,,INAV,normal.wav
+29,off,tắt,,INAV,off.wav
+30,on,bật,,INAV,on.wav
+31,position hold,giữ vị trí,,INAV,poshld.wav
+32,ready to fly,sẵn sàng bay,,INAV,ready.wav
+33,return to launch,quay về điểm phóng,,INAV,rtl.wav
+34,too high,quá cao,,INAV,toohgh.wav
+35,warning,cảnh báo,,INAV,warnng.wav
+36,waypoint,điểm định vị,,INAV,waypt.wav
+37,Acro flight mode,chế độ bay acro,,YAAPU,acro.wav
+38,Acro mode,chế độ acro,,YAAPU,acro_r.wav
+39,Altitude,độ cao,,YAAPU,alt.wav
+40,Altitude hold flight mode,chế độ bay giữ độ cao,,YAAPU,althold.wav
+41,Motors armed,động cơ đã kích hoạt,,YAAPU,armed.wav
+42,Auto flight mode,chế độ bay tự động,,YAAPU,auto.wav
+43,Auto mode,chế độ tự động,,YAAPU,auto_r.wav
+44,Auto RTL flight mode,chế độ bay Auto RTL,,YAAPU,autortl.wav
+45,Autotune enabled,Autotune đã bật,,YAAPU,autotune.wav
+46,Avoid A D S B flight mode,chế độ bay tránh ADS-B,,YAAPU,avoidadsb.wav
+47,Battery at 5 percent,pin ở mức 5 phần trăm,,YAAPU,bat5.wav
+48,Battery at 10 percent,pin ở mức 10 phần trăm,,YAAPU,bat10.wav
+49,Battery at 15 percent,pin ở mức 15 phần trăm,,YAAPU,bat15.wav
+50,Battery at 20 percent,pin ở mức 20 phần trăm,,YAAPU,bat20.wav
+51,Battery at 25 percent,pin ở mức 25 phần trăm,,YAAPU,bat25.wav
+52,Battery at 30 percent,pin ở mức 30 phần trăm,,YAAPU,bat30.wav
+53,Battery at 40 percent,pin ở mức 40 phần trăm,,YAAPU,bat40.wav
+54,Battery at 50 percent,pin ở mức 50 phần trăm,,YAAPU,bat50.wav
+55,Battery at 60 percent,pin ở mức 60 phần trăm,,YAAPU,bat60.wav
+56,Battery at 70 percent,pin ở mức 70 phần trăm,,YAAPU,bat70.wav
+57,Battery at 80 percent,pin ở mức 80 phần trăm,,YAAPU,bat80.wav
+58,Battery at 90 percent,pin ở mức 90 phần trăm,,YAAPU,bat90.wav
+59,Battery alert,cảnh báo pin,,YAAPU,batalert.wav
+60,Battery level 1 alert,cảnh báo mức pin 1,,YAAPU,batalert1.wav
+61,Battery level 2 alert,cảnh báo mức pin 2,,YAAPU,batalert2.wav
+62,Brake flight mode,chế độ phanh,,YAAPU,brake.wav
+63,Circle flight mode,chế độ vòng tròn,,YAAPU,circle.wav
+64,Cruise flight mode,chế độ hành trình,,YAAPU,cruise.wav
+65,Motors disarmed,động cơ đã ngắt kích hoạt,,YAAPU,disarmed.wav
+66,Distance,khoảng cách,,YAAPU,dist.wav
+67,Drift flight mode,chế độ drift,,YAAPU,drift.wav
+68,E K F failsafe,failsafe EKF,,YAAPU,ekf.wav
+69,failsafe,failsafe,,YAAPU,failsafe.wav
+70,fence enabled,hàng rào địa lý đã bật,,YAAPU,fence.wav
+71,fence breach,vi phạm hàng rào địa lý,,YAAPU,fencebreach.wav
+72,Flip flight mode,chế độ lật,,YAAPU,flip.wav
+73,flow position hold flight mode,chế độ giữ vị trí bằng optical flow,,YAAPU,flowhold.wav
+74,Fly by wire a flight mode,chế độ Fly-by-wire A,,YAAPU,flybywirea.wav
+75,Fly by wire b flight mode,chế độ Fly-by-wire B,,YAAPU,flybywireb.wav
+76,follow flight mode,chế độ bám theo,,YAAPU,follow.wav
+77,follow mode,chế độ bám theo,,YAAPU,follow_r.wav
+78,GPS 3D fix lock,GPS đã khóa 3D,,YAAPU,gpsfix.wav
+79,No gps,không có GPS,,YAAPU,gpsnofix.wav
+80,Guided flight mode,chế độ Guided,,YAAPU,guided.wav
+81,Guided mode,chế độ Guided,,YAAPU,guided_r.wav
+82,Guided no gps flight mode,chế độ Guided không GPS,,YAAPU,guidednogps.wav
+83,Hold mode,chế độ giữ,,YAAPU,hold_r.wav
+84,Initializing,đang khởi tạo,,YAAPU,initializing.wav
+85,Initializing,đang khởi tạo,,YAAPU,initializing_r.wav
+86,Land flight mode,chế độ hạ cánh,,YAAPU,land.wav
+87,Landing complete,hạ cánh hoàn tất,,YAAPU,landing.wav
+88,Loiter flight mode,chế độ bay vòng,,YAAPU,loiter.wav
+89,Loiter mode,chế độ bay vòng,,YAAPU,loiter_r.wav
+90,Low battery,pin yếu,,YAAPU,lowbat.wav
+91,Manual flight mode,chế độ thủ công,,YAAPU,manual.wav
+92,Manual mode,chế độ thủ công,,YAAPU,manual_r.wav
+93,Max altitude alert,cảnh báo độ cao tối đa,,YAAPU,maxalt.wav
+94,Max distance alert,cảnh báo khoảng cách tối đa,,YAAPU,maxdist.wav
+95,Low altitude alert,cảnh báo độ cao thấp,,YAAPU,minalt.wav
+96,Position hold flight mode,chế độ giữ vị trí,,YAAPU,poshold.wav
+97,Q acro flight mode,chế độ Q acro,,YAAPU,qacro.wav
+98,Q autotune flight mode,chế độ Q autotune,,YAAPU,qautotune.wav
+99,Q hover flight mode,chế độ Q hover,,YAAPU,qhover.wav
+100,Q land flight mode,chế độ Q hạ cánh,,YAAPU,qland.wav
+101,Q loiter flight mode,chế độ Q bay vòng,,YAAPU,qloiter.wav
+102,Q return to home flight mode,chế độ Q quay về nhà,,YAAPU,qrtl.wav
+103,Q stabilize flight mode,chế độ Q ổn định,,YAAPU,qstabilize.wav
+104,Return to home,quay về nhà,,YAAPU,rtl.wav
+105,Return to home mode,chế độ quay về nhà,,YAAPU,rtl_r.wav
+106,simple mode,chế độ đơn giản,,YAAPU,simple_r.wav
+107,simple mode disabled,chế độ đơn giản đã tắt,,YAAPU,simpleoff.wav
+108,simple mode enabled,chế độ đơn giản đã bật,,YAAPU,simpleon.wav
+109,Smart return to home flight mode,chế độ Smart RTL,,YAAPU,smartrtl.wav
+110,Smart return to home mode,chế độ Smart RTL,,YAAPU,smartrtl_r.wav
+111,Sport flight mode,chế độ Sport,,YAAPU,sport.wav
+112,super simple mode disabled,chế độ siêu đơn giản đã tắt,,YAAPU,ssimpleoff.wav
+113,super simple mode enabled,chế độ siêu đơn giản đã bật,,YAAPU,ssimpleon.wav
+114,Stabilize flight mode,chế độ ổn định,,YAAPU,stabilize.wav
+115,Steering mode,chế độ lái,,YAAPU,steering_r.wav
+116,no terrain data,không có dữ liệu địa hình,,YAAPU,terrainko.wav
+117,Thermal flight mode,chế độ thermal,,YAAPU,thermal.wav
+118,Throw flight mode,chế độ ném,,YAAPU,throw.wav
+119,Timer alert,cảnh báo hẹn giờ,,YAAPU,timealert.wav
+120,Training flight mode,chế độ huấn luyện,,YAAPU,training.wav
+121,turtle mode,chế độ turtle,,YAAPU,turtle.wav
+122,Zigzag flight mode,chế độ zigzag,,YAAPU,zigzag.wav
+123,takeoff flight mode,chế độ cất cánh,,YAAPU,takeofffm.wav
+124,System I D flight mode,chế độ System ID,,YAAPU,systemid.wav
+125,autorotate flight mode,chế độ tự động xoay,,YAAPU,autorotate.wav
+126,velocity flight mode,chế độ vận tốc,,YAAPU,velocity.wav
+127,Yaa-pu telemetry ready,telemetry Yaapu sẵn sàng,,YAAPU,yaapu.wav
+128,Altitude control mode,chế độ điều khiển độ cao,PX4,YAAPU,altctl.wav
+129,Position control mode,chế độ điều khiển vị trí,PX4,YAAPU,posctl.wav
+130,ready,sẵn sàng,PX4,YAAPU,ready.wav
+131,Auto takeoff mode,chế độ tự động cất cánh,PX4,YAAPU,takeoff.wav
+132,Auto mission mode,chế độ nhiệm vụ tự động,PX4,YAAPU,mission.wav
+133,link loss failsafe mode,chế độ failsafe mất liên kết,PX4,YAAPU,rtgs.wav
+134,Precision landing mode,chế độ hạ cánh chính xác,PX4,YAAPU,precland.wav
+135,Offboard mode,chế độ Offboard,PX4,YAAPU,offboard.wav
+136,rate attitude mode,chế độ rate attitude,PX4,YAAPU,rattitude.wav
+137,simple mode,chế độ đơn giản,PX4,YAAPU,simple.wav
+138,PreArming: Need 3D Fix,PreArming: cần khóa GPS 3D,Msg-Hash,YAAPU,264977348.wav
+139,Smart RTL Unavailable,Smart RTL không khả dụng,Msg-Hash,YAAPU,1834616480.wav
+140,EKF variance,phương sai EKF,Msg-Hash,YAAPU,2386213680.wav
+141,GPS Glitch cleared,lỗi GPS đã được xử lý,Msg-Hash,YAAPU,2310179660.wav
+142,GPS Glitch,lỗi GPS,Msg-Hash,YAAPU,4137200300.wav
+143,Parachute: Released,dù: đã bung,Msg-Hash,YAAPU,2664106240.wav
+144,Flight plan received,đã nhận kế hoạch bay,Msg-Hash,YAAPU,656739232.wav
+145,Mission complete,hoàn thành nhiệm vụ,Msg-Hash,YAAPU,3708582640.wav
+146,Geofence triggered,đã kích hoạt hàng rào địa lý,Msg-Hash,YAAPU,1809087708.wav
+147,Flight mode change failed,đổi chế độ bay thất bại,Msg-Hash,YAAPU,116655276.wav
+148,AutoTune: Success,AutoTune: thành công,Msg-Hash,YAAPU,1008001424.wav
+149,AutoTune: Failed,AutoTune: thất bại,Msg-Hash,YAAPU,1396289024.wav
+150,Transition done,chuyển tiếp hoàn tất,Msg-Hash,YAAPU,986165592.wav
+151,Transition started,bắt đầu chuyển tiếp,Msg-Hash,YAAPU,1249672288.wav
+152,Transition done,chuyển tiếp hoàn tất,Msg-Hash,YAAPU,4019153925.wav
+153,Transition VTOL done,chuyển tiếp VTOL hoàn tất,Msg-Hash,YAAPU,3417557720.wav
+154,Land descend started,bắt đầu hạ xuống để hạ cánh,Msg-Hash,YAAPU,1204090832.wav
+155,Land final started,bắt đầu giai đoạn hạ cánh cuối,Msg-Hash,YAAPU,2890289840.wav
+156,Soaring: Outside max radius,Soaring: ngoài bán kính tối đa,Msg-Hash,YAAPU,1883944664.wav
+157,Soaring: Disabled.,Soaring: đã tắt,Msg-Hash,YAAPU,4175833240.wav
+158,Soaring: not climbing,Soaring: không tăng độ cao,Msg-Hash,YAAPU,2599859119.wav
+159,Soaring: drifted too far,Soaring: đã trôi quá xa,Msg-Hash,YAAPU,636067590.wav
+160,Soaring: Too high,Soaring: quá cao,Msg-Hash,YAAPU,2730864352.wav
+161,Soaring: Too low,Soaring: quá thấp,Msg-Hash,YAAPU,1698465616.wav
+162,Soaring: Thermal ended,Soaring: thermal đã kết thúc,Msg-Hash,YAAPU,981284144.wav
+163,Soaring: Drifted too far,Soaring: đã trôi quá xa,Msg-Hash,YAAPU,2913564252.wav
+164,Soaring: Exit via RC switch,Soaring: thoát bằng công tắc RC,Msg-Hash,YAAPU,1746499976.wav
+165,Soaring: Enabled.,Soaring: đã bật,Msg-Hash,YAAPU,883458048.wav
+166,Soaring: thermal weak,Soaring: thermal yếu,Msg-Hash,YAAPU,2139150204.wav
+167,Soaring: reached upper altitude,Soaring: đã đạt độ cao trên,Msg-Hash,YAAPU,1352994600.wav
+168,Soaring: reached lower altitude,Soaring: đã đạt độ cao dưới,Msg-Hash,YAAPU,4026147344.wav
+169,reached command:,đã đến lệnh:,Msg-Hash,YAAPU,4091124880.wav
+170,reached waypoint:,đã đến điểm định vị:,Msg-Hash,YAAPU,3311875476.wav
+171,Passed waypoint:,đã qua điểm định vị:,Msg-Hash,YAAPU,1997782032.wav
+172,Takeoff complete,cất cánh hoàn tất,Msg-Hash,YAAPU,554623408.wav
+173,Smart RTL deactivated,Smart RTL đã tắt,Msg-Hash,YAAPU,3025044912.wav
+174,GPS home acquired,đã xác định điểm nhà GPS,Msg-Hash,YAAPU,3956583920.wav
+175,GPS home acquired,đã xác định điểm nhà GPS,Msg-Hash,YAAPU,1309405592.wav
+176,Auto Tune,tự động tinh chỉnh,,INAV,autotn.wav
+177,Auto Level Trim,trim cân bằng tự động,,INAV,autolm.wav
+178,Soaring,Soaring,,INAV,soarng.wav
+179,Beeper,còi,,INAV,beeper.wav

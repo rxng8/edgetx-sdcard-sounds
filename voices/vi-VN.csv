@@ -1,0 +1,569 @@
+String ID,Source text,Translation,Context,Path,Filename
+1,0,0,,SYSTEM,0000.wav
+2,1,1,,SYSTEM,0001.wav
+3,2,2,,SYSTEM,0002.wav
+4,3,3,,SYSTEM,0003.wav
+5,4,4,,SYSTEM,0004.wav
+6,5,5,,SYSTEM,0005.wav
+7,6,6,,SYSTEM,0006.wav
+8,7,7,,SYSTEM,0007.wav
+9,8,8,,SYSTEM,0008.wav
+10,9,9,,SYSTEM,0009.wav
+11,10,10,,SYSTEM,0010.wav
+12,11,11,,SYSTEM,0011.wav
+13,12,12,,SYSTEM,0012.wav
+14,13,13,,SYSTEM,0013.wav
+15,14,14,,SYSTEM,0014.wav
+16,15,15,,SYSTEM,0015.wav
+17,16,16,,SYSTEM,0016.wav
+18,17,17,,SYSTEM,0017.wav
+19,18,18,,SYSTEM,0018.wav
+20,19,19,,SYSTEM,0019.wav
+21,20,20,,SYSTEM,0020.wav
+22,21,21,,SYSTEM,0021.wav
+23,22,22,,SYSTEM,0022.wav
+24,23,23,,SYSTEM,0023.wav
+25,24,24,,SYSTEM,0024.wav
+26,25,25,,SYSTEM,0025.wav
+27,26,26,,SYSTEM,0026.wav
+28,27,27,,SYSTEM,0027.wav
+29,28,28,,SYSTEM,0028.wav
+30,29,29,,SYSTEM,0029.wav
+31,30,30,,SYSTEM,0030.wav
+32,31,31,,SYSTEM,0031.wav
+33,32,32,,SYSTEM,0032.wav
+34,33,33,,SYSTEM,0033.wav
+35,34,34,,SYSTEM,0034.wav
+36,35,35,,SYSTEM,0035.wav
+37,36,36,,SYSTEM,0036.wav
+38,37,37,,SYSTEM,0037.wav
+39,38,38,,SYSTEM,0038.wav
+40,39,39,,SYSTEM,0039.wav
+41,40,40,,SYSTEM,0040.wav
+42,41,41,,SYSTEM,0041.wav
+43,42,42,,SYSTEM,0042.wav
+44,43,43,,SYSTEM,0043.wav
+45,44,44,,SYSTEM,0044.wav
+46,45,45,,SYSTEM,0045.wav
+47,46,46,,SYSTEM,0046.wav
+48,47,47,,SYSTEM,0047.wav
+49,48,48,,SYSTEM,0048.wav
+50,49,49,,SYSTEM,0049.wav
+51,50,50,,SYSTEM,0050.wav
+52,51,51,,SYSTEM,0051.wav
+53,52,52,,SYSTEM,0052.wav
+54,53,53,,SYSTEM,0053.wav
+55,54,54,,SYSTEM,0054.wav
+56,55,55,,SYSTEM,0055.wav
+57,56,56,,SYSTEM,0056.wav
+58,57,57,,SYSTEM,0057.wav
+59,58,58,,SYSTEM,0058.wav
+60,59,59,,SYSTEM,0059.wav
+61,60,60,,SYSTEM,0060.wav
+62,61,61,,SYSTEM,0061.wav
+63,62,62,,SYSTEM,0062.wav
+64,63,63,,SYSTEM,0063.wav
+65,64,64,,SYSTEM,0064.wav
+66,65,65,,SYSTEM,0065.wav
+67,66,66,,SYSTEM,0066.wav
+68,67,67,,SYSTEM,0067.wav
+69,68,68,,SYSTEM,0068.wav
+70,69,69,,SYSTEM,0069.wav
+71,70,70,,SYSTEM,0070.wav
+72,71,71,,SYSTEM,0071.wav
+73,72,72,,SYSTEM,0072.wav
+74,73,73,,SYSTEM,0073.wav
+75,74,74,,SYSTEM,0074.wav
+76,75,75,,SYSTEM,0075.wav
+77,76,76,,SYSTEM,0076.wav
+78,77,77,,SYSTEM,0077.wav
+79,78,78,,SYSTEM,0078.wav
+80,79,79,,SYSTEM,0079.wav
+81,80,80,,SYSTEM,0080.wav
+82,81,81,,SYSTEM,0081.wav
+83,82,82,,SYSTEM,0082.wav
+84,83,83,,SYSTEM,0083.wav
+85,84,84,,SYSTEM,0084.wav
+86,85,85,,SYSTEM,0085.wav
+87,86,86,,SYSTEM,0086.wav
+88,87,87,,SYSTEM,0087.wav
+89,88,88,,SYSTEM,0088.wav
+90,89,89,,SYSTEM,0089.wav
+91,90,90,,SYSTEM,0090.wav
+92,91,91,,SYSTEM,0091.wav
+93,92,92,,SYSTEM,0092.wav
+94,93,93,,SYSTEM,0093.wav
+95,94,94,,SYSTEM,0094.wav
+96,95,95,,SYSTEM,0095.wav
+97,96,96,,SYSTEM,0096.wav
+98,97,97,,SYSTEM,0097.wav
+99,98,98,,SYSTEM,0098.wav
+100,99,99,,SYSTEM,0099.wav
+101,100,100,,SYSTEM,0100.wav
+102,200,200,,SYSTEM,0101.wav
+103,300,300,,SYSTEM,0102.wav
+104,400,400,,SYSTEM,0103.wav
+105,500,500,,SYSTEM,0104.wav
+106,600,600,,SYSTEM,0105.wav
+107,700,700,,SYSTEM,0106.wav
+108,800,800,,SYSTEM,0107.wav
+109,900,900,,SYSTEM,0108.wav
+110,thousand,nghìn,,SYSTEM,0109.wav
+111,and,và,,SYSTEM,0110.wav
+112,minus,âm,,SYSTEM,0111.wav
+113,point,phẩy,,SYSTEM,0112.wav
+114,volt,vôn,,SYSTEM,volt0.wav
+115,volts,vôn,,SYSTEM,volt1.wav
+116,amp,ampe,,SYSTEM,amp0.wav
+117,amps,ampe,,SYSTEM,amp1.wav
+118,milliamp,miliampe,,SYSTEM,mamp0.wav
+119,milliamps,miliampe,,SYSTEM,mamp1.wav
+120,knot,nút,,SYSTEM,knot0.wav
+121,knots,nút,,SYSTEM,knot1.wav
+122,meter per second,mét trên giây,,SYSTEM,mps0.wav
+123,meters per second,mét trên giây,,SYSTEM,mps1.wav
+124,foot per second,feet trên giây,,SYSTEM,fps0.wav
+125,feet per second,feet trên giây,,SYSTEM,fps1.wav
+126,kilometer per hour,kilômét trên giờ,,SYSTEM,kph0.wav
+127,kilometers per hour,kilômét trên giờ,,SYSTEM,kph1.wav
+128,mile per hour,dặm trên giờ,,SYSTEM,mph0.wav
+129,miles per hour,dặm trên giờ,,SYSTEM,mph1.wav
+130,meter,mét,,SYSTEM,meter0.wav
+131,meters,mét,,SYSTEM,meter1.wav
+132,foot,feet,,SYSTEM,foot0.wav
+133,feet,feet,,SYSTEM,foot1.wav
+134,degree celsius,độ C,,SYSTEM,celsius0.wav
+135,degrees celsius,độ C,,SYSTEM,celsius1.wav
+136,degree fahrenheit,độ F,,SYSTEM,fahr0.wav
+137,degrees fahrenheit,độ F,,SYSTEM,fahr1.wav
+138,percent,phần trăm,,SYSTEM,percent0.wav
+139,percent,phần trăm,,SYSTEM,percent1.wav
+140,milliamp-hour,miliampe-giờ,,SYSTEM,mamph0.wav
+141,milliamp-hours,miliampe-giờ,,SYSTEM,mamph1.wav
+142,watt,oát,,SYSTEM,watt0.wav
+143,watts,oát,,SYSTEM,watt1.wav
+144,milli-watt,mili-oát,,SYSTEM,mwatt0.wav
+145,milli-watts,mili-oát,,SYSTEM,mwatt1.wav
+146,DB,đề-xi-ben,,SYSTEM,db0.wav
+147,DB,đề-xi-ben,,SYSTEM,db1.wav
+148,RPM,vòng trên phút,,SYSTEM,rpm0.wav
+149,RPM,vòng trên phút,,SYSTEM,rpm1.wav
+150,G,G,,SYSTEM,g0.wav
+151,G,G,,SYSTEM,g1.wav
+152,degree,độ,,SYSTEM,degree0.wav
+153,degrees,độ,,SYSTEM,degree1.wav
+154,radian,radian,,SYSTEM,rad0.wav
+155,radians,radian,,SYSTEM,rad1.wav
+156,milliliter,mililít,,SYSTEM,ml0.wav
+157,milliliters,mililít,,SYSTEM,ml1.wav
+158,fluid ounce,ao-xơ chất lỏng,,SYSTEM,founce0.wav
+159,fluid ounces,ao-xơ chất lỏng,,SYSTEM,founce1.wav
+160,milliliter per minute,mililít trên phút,,SYSTEM,mlpm0.wav
+161,milliliters per minute,mililít trên phút,,SYSTEM,mlpm1.wav
+162,hertz,héc,,SYSTEM,hertz0.wav
+163,hertz,héc,,SYSTEM,hertz1.wav
+164,millisecond,mili giây,,SYSTEM,ms0.wav
+165,milliseconds,mili giây,,SYSTEM,ms1.wav
+166,microsecond,micro giây,,SYSTEM,us0.wav
+167,microseconds,micro giây,,SYSTEM,us1.wav
+168,hour,giờ,,SYSTEM,hour0.wav
+169,hours,giờ,,SYSTEM,hour1.wav
+170,minute,phút,,SYSTEM,minute0.wav
+171,minutes,phút,,SYSTEM,minute1.wav
+172,second,giây,,SYSTEM,second0.wav
+173,seconds,giây,,SYSTEM,second1.wav
+174,point zero,phẩy không,,SYSTEM,0167.wav
+175,point one,phẩy một,,SYSTEM,0168.wav
+176,point two,phẩy hai,,SYSTEM,0169.wav
+177,point three,phẩy ba,,SYSTEM,0170.wav
+178,point four,phẩy bốn,,SYSTEM,0171.wav
+179,point five,phẩy năm,,SYSTEM,0172.wav
+180,point six,phẩy sáu,,SYSTEM,0173.wav
+181,point seven,phẩy bảy,,SYSTEM,0174.wav
+182,point eight,phẩy tám,,SYSTEM,0175.wav
+183,point nine,phẩy chín,,SYSTEM,0176.wav
+184,trim center,trim giữa,,SYSTEM,midtrim.wav
+185,maximum trim reached,đã đạt trim tối đa,,SYSTEM,maxtrim.wav
+186,minimum trim reached,đã đạt trim tối thiểu,,SYSTEM,mintrim.wav
+187,timer 1 elapsed,bộ hẹn giờ 1 đã hết,,SYSTEM,timovr1.wav
+188,timer 2 elapsed,bộ hẹn giờ 2 đã hết,,SYSTEM,timovr2.wav
+189,timer 3 elapsed,bộ hẹn giờ 3 đã hết,,SYSTEM,timovr3.wav
+190,transmitter battery low,pin yếu,,SYSTEM,lowbatt.wav
+191,inactivity alarm,cảnh báo không hoạt động,,SYSTEM,inactiv.wav
+192,throttle warning,cảnh báo ga,,SYSTEM,thralert.wav
+193,switch warning,cảnh báo công tắc,,SYSTEM,swalert.wav
+194,bad eeprom,EEPROM lỗi,,SYSTEM,eebad.wav
+195,Welcome to EdgeTX,Chào mừng đến với Hệ Thống Rồng Vàng,,SYSTEM,hello.wav
+196,RF signal low,tín hiệu RF yếu,,SYSTEM,rssi_org.wav
+197,RF signal critical,tín hiệu RF nguy hiểm,,SYSTEM,rssi_red.wav
+198,radio antenna defective,ăng-ten radio bị lỗi,,SYSTEM,swr_red.wav
+199,telemetry lost,mất telemetry,,SYSTEM,telemko.wav
+200,telemetry recovered,telemetry đã khôi phục,,SYSTEM,telemok.wav
+201,Trainer connected,trainer đã kết nối,,SYSTEM,trainco.wav
+202,trainer signal lost,mất tín hiệu trainer,,SYSTEM,trainko.wav
+203,trainer signal recovered,tín hiệu trainer đã khôi phục,,SYSTEM,trainok.wav
+204,sensor lost,mất cảm biến,,SYSTEM,sensorko.wav
+205,servo overload,servo quá tải,,SYSTEM,servoko.wav
+206,power overload,nguồn quá tải,,SYSTEM,rxko.wav
+207,receiver still connected,bộ thu vẫn kết nối,,SYSTEM,modelpwr.wav
+208,armed,đã kích hoạt động cơ,,,armed.wav
+209,disarmed,đã ngắt kích hoạt động cơ,,,disarm.wav
+210,throttle cut,ngắt ga,,,thrcut.wav
+211,throttle active,ga đang hoạt động,,,thract.wav
+212,gear up,càng lên,plane,,gearup.wav
+213,gear down,càng xuống,plane,,geardn.wav
+214,flaps up,flap lên,plane,,flapup.wav
+215,flaps down,flap xuống,plane,,flapdn.wav
+216,spoiler up,spoiler lên,,,splrup.wav
+217,spoiler down,spoiler xuống,,,splrdn.wav
+218,trainer on,trainer bật,,,trnon.wav
+219,trainer off,trainer tắt,,,trnoff.wav
+220,engine off,động cơ tắt,,,engoff.wav
+221,too high,quá cao,,,tohigh.wav
+222,too low,quá thấp,,,tolow.wav
+223,low battery,pin yếu,,,lowbat.wav
+224,crow on,crow bật,,,crowon.wav
+225,crow off,crow tắt,,,crowof.wav
+226,RF signal low,tín hiệu RF yếu,rc-link,,siglow.wav
+227,RF signal critical,tín hiệu RF nguy hiểm,rc-link,,sigcrt.wav
+228,LQ,LQ,rc-link,,lq.wav
+229,RF mode,chế độ RF,rc-link,,rfmode.wav
+230,high speed mode active,chế độ tốc độ cao đang hoạt động,rc-link,,spdmod.wav
+231,thermal mode on,chế độ thermal bật,,,thmmod.wav
+232,normal mode on,chế độ bình thường bật,,,nrmmod.wav
+233,landing mode on,chế độ hạ cánh bật,,,lnding.wav
+234,acro mode on,chế độ acro bật,,,acro.wav
+235,flight mode one,chế độ bay một,,,fm-1.wav
+236,flight mode two,chế độ bay hai,,,fm-2.wav
+237,flight mode three,chế độ bay ba,,,fm-3.wav
+238,flight mode four,chế độ bay bốn,,,fm-4.wav
+239,flight mode five,chế độ bay năm,,,fm-5.wav
+240,flight mode six,chế độ bay sáu,,,fm-6.wav
+241,flight mode seven,chế độ bay bảy,,,fm-7.wav
+242,flight mode eight,chế độ bay tám,,,fm-8.wav
+243,vario on,vario bật,,,vrion.wav
+244,vario off,vario tắt,,,vrioff.wav
+245,flight mode power,chế độ bay power,,,fm-pwr.wav
+246,flight mode land,chế độ bay hạ cánh,,,fm-lnd.wav
+247,flight mode float,chế độ bay float,,,fm-flt.wav
+248,flight mode speed,chế độ bay tốc độ,,,fm-spd.wav
+249,flight mode fast,chế độ bay nhanh,,,fm-fst.wav
+250,flight mode normal,chế độ bay bình thường,,,fm-nrm.wav
+251,flight mode cruise,chế độ bay hành trình,,,fm-crs.wav
+252,flight mode acro,chế độ bay acro,,,fm-acr.wav
+253,flight mode race,chế độ bay đua,,,fm-rce.wav
+254,flight mode launch,chế độ bay phóng,,,fm-lch.wav
+255,flight mode ping,chế độ bay ping,,,fm-png.wav
+256,flight mode thermal,chế độ bay thermal,,,fm-thm.wav
+257,flight mode thermal left,chế độ bay thermal trái,,,fm-thl.wav
+258,flight mode thermal right,chế độ bay thermal phải,,,fm-thr.wav
+259,flight mode stabilize,chế độ bay stabilize,,,fm-stb.wav
+260,flight mode horizon,chế độ bay horizon,,,fm-hor.wav
+261,flight mode angle,chế độ bay angle,,,fm-ang.wav
+262,flight mode idle up 1,chế độ bay idle up 1,,,fm-id1.wav
+263,flight mode idle up 2,chế độ bay idle up 2,,,fm-id2.wav
+264,low rate,rate thấp,,,ratlow.wav
+265,medium rate,rate trung bình,,,ratmed.wav
+266,high rate,rate cao,,,rathi.wav
+267,take off,cất cánh,,,takeof.wav
+268,sport,sport,,,sport.wav
+269,pattern,mẫu bay,,,pattrn.wav
+270,3D,3D,,,3d.wav
+271,landing,hạ cánh,,,landin.wav
+272,idle up 1,idle up 1,,,idleu1.wav
+273,idle up 2,idle up 2,,,idleu2.wav
+274,normal mode,chế độ bình thường,,,normod.wav
+275,bank 0,bank 0,,,bank-0.wav
+276,bank 1,bank 1,,,bank-1.wav
+277,bank 2,bank 2,,,bank-2.wav
+278,bank 3,bank 3,,,bank-3.wav
+279,heading lock,khóa hướng,,,headlo.wav
+280,rate mode,chế độ rate,,,ratmod.wav
+281,3D Mode,chế độ 3D,,,3d-mod.wav
+282,stabilize mode,chế độ ổn định,,,stabmo.wav
+283,on,bật,,,on.wav
+284,off,tắt,,,off.wav
+285,buzzer active,còi đang hoạt động,,,buzact.wav
+286,crash-flip active,crash-flip đang hoạt động,multicopter,,crfact.wav
+287,blackbox active,blackbox đang hoạt động,,,blkact.wav
+288,pre-arm active,pre-arm đang hoạt động,,,preact.wav
+289,stable mode,chế độ ổn định,,,stbmod.wav
+290,brakes on,phanh bật,plane,,brakon.wav
+291,brakes off,phanh tắt,plane,,brakof.wav
+292,butterfly on,butterfly bật,,,btfon.wav
+293,butterfly off,butterfly tắt,,,btfoff.wav
+294,flaps one,flap một,plane,,flp1.wav
+295,flaps two,flap hai,plane,,flp2.wav
+296,flaps three,flap ba,plane,,flp3.wav
+297,flaps four,flap bốn,plane,,flp4.wav
+298,flaps five,flap năm,plane,,flp5.wav
+299,wingsweep,quét cánh,plane,,wngswp.wav
+300,wheelbrakes on,phanh bánh bật,plane,,whlbro.wav
+301,wheelbrakes off,phanh bánh tắt,plane,,whlbrf.wav
+302,manual mode,chế độ thủ công,,,manmod.wav
+303,acro mode,chế độ acro,,,acrmod.wav
+304,angle mode,chế độ angle,,,angmod.wav
+305,horizon mode,chế độ horizon,,,hznmod.wav
+306,launch mode,chế độ phóng,,,lncmod.wav
+307,air mode,chế độ air,,,airmod.wav
+308,pit mode,chế độ pit,,,pitmod.wav
+309,navigation cruise,dẫn đường hành trình,autopilot,,navcrs.wav
+310,navigation course hold,dẫn đường giữ hướng,autopilot,,navcsh.wav
+311,navigation altitude hold,dẫn đường giữ độ cao,autopilot,,navalh.wav
+312,navigation position hold,dẫn đường giữ vị trí,autopilot,,navpos.wav
+313,navigation return to home,dẫn đường quay về điểm cất cánh,autopilot,,navrth.wav
+314,navigation waypoint,điểm định vị dẫn đường,autopilot,,navwp.wav
+315,cruise,hành trình,autopilot,,cruise.wav
+316,course hold,giữ hướng,autopilot,,crshld.wav
+317,altitude hold,giữ độ cao,autopilot,,althld.wav
+318,position hold,giữ vị trí,autopilot,,poshld.wav
+319,return to home,quay về điểm cất cánh,autopilot,,rth.wav
+320,waypoint,điểm định vị,autopilot,,waypnt.wav
+321,manual,thủ công,,,manual.wav
+322,auto,tự động,,,auto.wav
+323,OSD,OSD,video,,osd.wav
+324,OSD profile,cấu hình OSD,video,,osdprf.wav
+325,attitude hold mode,chế độ attitude hold,autopilot,,sxrahd.wav
+326,manual mode,chế độ thủ công,,,sxrman.wav
+327,stabilizer mode,chế độ stabilize,,,sxrsmd.wav
+328,stabilizer off,bộ ổn định tắt,,,sxrsof.wav
+329,stabilizer on,bộ ổn định bật,,,sxrstb.wav
+330,wind rejection mode,chế độ chống gió,,,sxrwr.wav
+331,turtle mode on,chế độ turtle bật,multicopter,,turton.wav
+332,turtle mode off,chế độ turtle tắt,multicopter,,turtof.wav
+333,flip,lật,,,flip.wav
+334,autorotation,tự động quay,heli,,auro.wav
+335,failsafe active,failsafe đang hoạt động,,,fsact.wav
+336,failsafe off,failsafe tắt,,,fsoff.wav
+337,OSD Profile 1,cấu hình OSD 1,video,,osd1.wav
+338,OSD Profile 2,cấu hình OSD 2,video,,osd2.wav
+339,OSD Profile 3,cấu hình OSD 3,video,,osd3.wav
+340,rate profile 1,cấu hình rate 1,,,rates1.wav
+341,rate profile 2,cấu hình rate 2,,,rates2.wav
+342,rate profile 3,cấu hình rate 3,,,rates3.wav
+343,rate profile 4,cấu hình rate 4,,,rates4.wav
+344,rate profile 5,cấu hình rate 5,,,rates5.wav
+345,rate profile 6,cấu hình rate 6,,,rates6.wav
+346,stick commands disabled,lệnh cần điều khiển đã tắt,,,scmdof.wav
+347,stick commands enabled,lệnh cần điều khiển đã bật,,,scmdon.wav
+348,telemetry,telemetry,,,telem.wav
+349,telemetry logging on,ghi telemetry bật,,,tlogon.wav
+350,telemetry logging off,ghi telemetry tắt,,,tlogof.wav
+351,VTX,VTX,video,,vtx.wav
+352,VTX on,VTX bật,video,,vtxon.wav
+353,VTX off,VTX tắt,video,,vtxoff.wav
+354,VTX 25 milliwatts,VTX 25 miliwatt,video,,vtx25.wav
+355,VTX 50 milliwatts,VTX 50 miliwatt,video,,vtx50.wav
+356,VTX 100 milliwatts,VTX 100 miliwatt,video,,vtx100.wav
+357,VTX 200 milliwatts,VTX 200 miliwatt,video,,vtx200.wav
+358,VTX 300 milliwatts,VTX 300 miliwatt,video,,vtx300.wav
+359,VTX 400 milliwatts,VTX 400 miliwatt,video,,vtx400.wav
+360,VTX 500 milliwatts,VTX 500 miliwatt,video,,vtx500.wav
+361,VTX 600 milliwatts,VTX 600 miliwatt,video,,vtx600.wav
+362,VTX 700 milliwatts,VTX 700 miliwatt,video,,vtx700.wav
+363,VTX 800 milliwatts,VTX 800 miliwatt,video,,vtx800.wav
+364,VTX 900 milliwatts,VTX 900 miliwatt,video,,vtx900.wav
+365,VTX Pit Mode,VTX chế độ pit,video,,vtxpm.wav
+366,VTX Race Mode,VTX chế độ đua,video,,vtxrm.wav
+367,VTX 1 watt,VTX 1 oát,video,,vtx1w.wav
+368,VTX 2 watts,VTX 2 oát,video,,vtx2w.wav
+369,VTX 4 watts,VTX 4 oát,video,,vtx4w.wav
+370,critical low battery,pin cực yếu,,,clobat.wav
+371,start,bắt đầu,,,start.wav
+372,stop,dừng,,,stop.wav
+373,lights on,đèn bật,,,lghton.wav
+374,lights off,đèn tắt,,,lghtof.wav
+375,buzzer off,còi tắt,,,buzoff.wav
+376,dynamic TX power,công suất TX tùy biến,rc-link,,dyntxp.wav
+377,maximum TX power,công suất TX tối đa,rc-link,,maxtxp.wav
+378,throttle hold,giữ ga,plane/heli,,thrhld.wav
+379,throttle idle,ga không tải,plane/heli,,thridl.wav
+380,throttle release,nhả ga,plane/heli,,thrrel.wav
+381,negative pitch allowed,cho phép pitch âm,heli,,negpon.wav
+382,negative pitch disallowed,không cho phép pitch âm,heli,,negpof.wav
+383,autolaunch started,tự động phóng đã bắt đầu,autopilot,,alnch.wav
+384,rescue mode active,chế độ cứu hộ đang hoạt động,autopilot,,rscmon.wav
+385,rescue mode off,chế độ cứu hộ tắt,autopilot,,rscmof.wav
+386,headfree mode active,chế độ headfree đang hoạt động,multicopter,,hdfmon.wav
+387,headfree mode off,chế độ headfree tắt,multicopter,,hdfmof.wav
+388,heading adjust,điều chỉnh hướng,multicopter,,hdadj.wav
+389,FPV angle mix active,mix góc FPV đang hoạt động,multicopter,,agmxon.wav
+390,FPV angle mix off,mix góc FPV tắt,multicopter,,agmxof.wav
+391,air mode on,chế độ air bật,,,airmon.wav
+392,air mode off,chế độ air tắt,,,airmof.wav
+393,OSD on,OSD bật,video,,osdon.wav
+394,OSD off,OSD tắt,video,,osdoff.wav
+395,return to home started,bắt đầu quay về điểm xuất phát,autopilot,,rthstr.wav
+396,return to home stopped,hủy quay về điểm xuất phát,autopilot,,rthstp.wav
+397,waypoint navigation started,bắt đầu dẫn đường theo điểm,autopilot,,wpnstr.wav
+398,waypoint navigation stopped,dừng dẫn đường theo điểm,autopilot,,wpnstp.wav
+399,course hold active,giữ hướng đang hoạt động,autopilot,,crshon.wav
+400,course hold off,giữ hướng tắt,autopilot,,crshof.wav
+401,position hold active,giữ vị trí đang hoạt động,autopilot,,poshon.wav
+402,position hold off,giữ vị trí tắt,autopilot,,poshof.wav
+403,altitude hold active,giữ độ cao đang hoạt động,autopilot,,althon.wav
+404,altitude hold off,giữ độ cao tắt,autopilot,,althof.wav
+405,loiter,bay vòng,autopilot,,loiter.wav
+406,safety on,an toàn bật,,,sftyon.wav
+407,safety off,an toàn tắt,,,sftyof.wav
+408,SAFE on,SAFE bật,plane,,safeon.wav
+409,SAFE off,SAFE tắt,plane,,safeof.wav
+410,flight envelope protection active,bảo vệ giới hạn bay đang hoạt động,plane,,fepact.wav
+411,flight envelope protection off,bảo vệ giới hạn bay tắt,plane,,fepoff.wav
+412,timer 1 reset,bộ hẹn giờ 1 đã đặt lại,,,timrs1.wav
+413,timer 2 reset,bộ hẹn giờ 2 đã đặt lại,,,timrs2.wav
+414,timer 3 reset,bộ hẹn giờ 3 đã đặt lại,,,timrs3.wav
+415,expo 1,expo 1,,,expo1.wav
+416,expo 2,expo 2,,,expo2.wav
+417,expo 3,expo 3,,,expo3.wav
+418,active,đang hoạt động,,,active.wav
+419,deactivated,đã tắt,,,deact.wav
+420,enabled,đã bật,,,enabl.wav
+421,disabled,đã tắt,,,disabl.wav
+422,good,tốt,,,good.wav
+423,bad,xấu,,,bad.wav
+424,normal,bình thường,,,normal.wav
+425,warning,cảnh báo,,,warnng.wav
+426,danger,nguy hiểm,,,danger.wav
+427,ready to fly,sẵn sàng bay,,,ready.wav
+428,home reset,đã đặt lại điểm nhà,,,homrst.wav
+429,GPS,GPS,,,gps.wav
+430,GPS on,GPS bật,,,gpson.wav
+431,GPS off,GPS tắt,,,gpsoff.wav
+432,VTX Frequency R1,tần số VTX R1,video,,vtxfr1.wav
+433,VTX Frequency R2,tần số VTX R2,video,,vtxfr2.wav
+434,VTX Frequency R3,tần số VTX R3,video,,vtxfr3.wav
+435,VTX Frequency R4,tần số VTX R4,video,,vtxfr4.wav
+436,VTX Frequency R5,tần số VTX R5,video,,vtxfr5.wav
+437,VTX Frequency R6,tần số VTX R6,video,,vtxfr6.wav
+438,VTX Frequency R7,tần số VTX R7,video,,vtxfr7.wav
+439,VTX Frequency R8,tần số VTX R8,video,,vtxfr8.wav
+440,VTX Maximum Power,công suất VTX tối đa,video,,vtxmax.wav
+441,blackbox erase,xóa blackbox,,,blkers.wav
+442,acro trainer mode,chế độ trainer acro,,,actnmd.wav
+443,Camera wifi button,nút Wi-Fi camera,camera,,cwifi.wav
+444,Camera power button,nút nguồn camera,camera,,cpower.wav
+445,Camera change mode,đổi chế độ camera,camera,,cmode.wav
+446,Camera start,khởi động camera,camera,,cstart.wav
+447,Camera stop,dừng camera,camera,,cstop.wav
+448,Recording start,bắt đầu ghi hình,,,recsrt.wav
+449,Recording stop,dừng ghi hình,,,recstp.wav
+450,Start recording,bắt đầu ghi hình,,,strtrc.wav
+451,Stop recording,dừng ghi hình,,,stoprc.wav
+452,DBM,DBM,,SYSTEM,dbm0.wav
+453,DBM,DBM,,SYSTEM,dbm1.wav
+454,kilometer,kilômét,,SYSTEM,km0.wav
+455,kilometers,kilômét,,SYSTEM,km1.wav
+456,Reverse Thrust,lực đẩy ngược,plane,,revthr.wav
+457,Reverse Thrust On,lực đẩy ngược bật,plane,,revon.wav
+458,Reverse Thrust Off,lực đẩy ngược tắt,plane,,revoff.wav
+459,Reverse Thrust Idle,lực đẩy ngược không tải,plane,,revid.wav
+460,Forward Thrust,lực đẩy tiến,plane,,revfwd.wav
+461,telemetry connected,telemetry đã kết nối,,SYSTEM,telemco.wav
+462,level mode,chế độ cân bằng,flight controller,,lvlmod.wav
+463,diffs locked,vi sai khóa,car,,difloc.wav
+464,diffs unlocked,vi sai mở khóa,car,,difulc.wav
+465,engine start,khởi động động cơ,car,,engsrt.wav
+466,engine stop,dừng động cơ,car,,engstp.wav
+467,engine on,động cơ bật,car,,engon.wav
+468,Turn signals on,xi-nhan bật,car,,turnon.wav
+469,Turn signals off,xi-nhan tắt,car,,turnof.wav
+470,High gear,số cao,car,,highgr.wav
+471,Low gear,số thấp,car,,lowgr.wav
+472,Dig mode,chế độ đào,car,,digmod.wav
+473,Two wheel drive,dẫn động hai bánh,car,,2wd.wav
+474,Four wheel drive,dẫn động bốn bánh,car,,4wd.wav
+475,Winch in,thu tời,car,,wchin.wav
+476,Winch out,nhả tời,car,,wchout.wav
+477,Front Steer,đánh lái trước,car,,str-f.wav
+478,Rear Steer,đánh lái sau,car,,str-r.wav
+479,Four Wheel Steer,đánh lái bốn bánh,car,,str-4w.wav
+480,Mirror Steer,đánh lái gương,car,,str-mr.wav
+481,Crab Steer,đánh lái cua,car,,str-cr.wav
+482,Motor armed,động cơ đã kích hoạt,soaretx,,motarm.wav
+483,Power,công suất,soaretx,,power.wav
+484,Speed,tốc độ,soaretx,,speed.wav
+485,Thermal,thermal,soaretx,,therml.wav
+486,Front wheel drive,dẫn động cầu trước,car,,fwd.wav
+487,Rear wheel drive,dẫn động cầu sau,car,,rwd.wav
+488,All wheel drive,dẫn động bốn bánh,car,,awd.wav
+489,Throttle enabled,ga đã bật,car,,thren.wav
+490,Throttle disabled,ga đã tắt,car,,thrdis.wav
+491,Winch enabled,tời đã bật,car,,wchen.wav
+492,Winch disabled,tời đã tắt,car,,wchdis.wav
+493,Drift mode on,chế độ drift bật,car,,drifon.wav
+494,Drift mode off,chế độ drift tắt,car,,drifof.wav
+495,Gyro enabled,gyro đã bật,,,gyroon.wav
+496,Gyro disabled,gyro đã tắt,,,gyroof.wav
+497,Launch control active,kiểm soát phóng đang hoạt động,,,launch.wav
+498,Wet mode enabled,chế độ đường ướt đã bật,,,wetmde.wav
+499,Max gyro,gyro tối đa,,,maxgyr.wav
+500,Max assistance,hỗ trợ tối đa,,,maxast.wav
+501,Overheating,quá nhiệt,,,overht.wav
+502,Motor overheating,động cơ quá nhiệt,,,mothot.wav
+503,Drift Mode Enabled,chế độ drift đã bật,,,drifen.wav
+504,Drift Mode Disabled,chế độ drift đã tắt,,,drifdb.wav
+505,Screenshot,ảnh chụp màn hình,,,screns.wav
+506,Cell,cell,,,cell.wav
+507,Transmitter Battery Low,pin bộ phát yếu,,,txbatl.wav
+508,Left,trái,,,left.wav
+509,Right,phải,,,right.wav
+510,Shift,sang số,,,shift.wav
+511,Stability Control On,kiểm soát ổn định bật,,,sbcton.wav
+512,Stability Control Off,kiểm soát ổn định tắt,,,sbctof.wav
+513,Stability Control Enabled,kiểm soát ổn định đã bật,,,sbcten.wav
+514,Stability Control Disabled,kiểm soát ổn định đã tắt,,,sbctdb.wav
+515,Thermal Warning,cảnh báo thermal,,,thmwrn.wav
+516,Servo Overload,servo quá tải,,,srvovl.wav
+517,BEC Overload,BEC quá tải,,,becovl.wav
+518,Stability Control,kiểm soát ổn định,,,sbct.wav
+519,Stability Control - Standard,kiểm soát ổn định - tiêu chuẩn,,,sbctst.wav
+520,Gyro,gyro,,,gyro.wav
+521,Low,thấp,,,low.wav
+522,Medium,trung bình,,,medium.wav
+523,High,cao,,,high.wav
+524,Standard,tiêu chuẩn,,,stanrd.wav
+525,Bash Mode,chế độ bash,car,,bashmd.wav
+526,Race Mode,chế độ đua,car,,racemd.wav
+527,Chill Mode,chế độ chill,car,,chilmd.wav
+528,Trainer Mode,chế độ trainer,car,,trnmd.wav
+529,Speed Mode,chế độ tốc độ,car,,spdmd.wav
+530,City Mode,chế độ thành phố,car,,citymd.wav
+531,Cruise Mode,chế độ hành trình,car,,crusmd.wav
+532,Flaps Middle,flap giữa,plane,,flapmd.wav
+533,Flaps Full,flap hết,plane,,flapfl.wav
+534,Motor On,động cơ bật,,,moton.wav
+535,Motor Off,động cơ tắt,,,motoff.wav
+536,Motor Idle,động cơ không tải,,,motidl.wav
+537,Autorotation,tự động quay,heli,,autor.wav
+538,Rescue On,cứu hộ bật,,,reson.wav
+539,High Temperature,nhiệt độ cao,,,htemp.wav
+540,High Vibration,độ rung cao,,,hvibr.wav
+541,Glow On,sấy bật,,,glwon.wav
+542,Glow Off,sấy tắt,,,glwoff.wav
+543,Glow Activated,sấy đã kích hoạt,,,glwact.wav
+544,Glow Deactivated,sấy đã tắt,,,glwdea.wav
+545,Track Mode,chế độ đường đua,Car,,trkmd.wav
+546,Drag brake,phanh kéo,Car,,dbrk.wav
+547,Drag brake on,phanh kéo bật,Car,,dbrkon.wav
+548,Drag brake off,phanh kéo tắt,Car,,dbrkof.wav
+549,Drag brake Low,phanh kéo thấp,Car,,dbrklw.wav
+550,Drag brake Medium,phanh kéo trung bình,Car,,dbrkmd.wav
+551,Drag brake High,phanh kéo cao,Car,,dbrkhi.wav
+552,Snapflap On,Snapflap bật,Plane,,snapfon.wav
+553,Snapflap Off,Snapflap tắt,Plane,,snapfof.wav
+554,Snapflap Low,Snapflap thấp,Plane,,snapflo.wav
+555,Snapflap High,Snapflap cao,Plane,,snapfhi.wav
+556,Auto tune,tự động tinh chỉnh,Plane,,autotun.wav
+557,Auto level trim,trim cân bằng tự động,Plane,,alvltrim.wav
+558,Servo auto trim,tự động trim servo,Plane,,srvatrim.wav
+559,open,mở,,,open.wav
+560,close,đóng,,,close.wav
+561,locked,đã khóa,,,locked.wav
+562,unlocked,đã mở khóa,,,unlckd.wav
+563,canopy,mái che,,,canopy.wav
+564,bind,bind,,,bind.wav
+565,wings extending,cánh đang mở rộng,,,vgext.wav
+566,wings extended,cánh đã mở rộng,,,vgextd.wav
+567,wings folding,cánh đang gập,,,vgfold.wav
+568,wings folded,cánh đã gập,,,vgfldd.wav

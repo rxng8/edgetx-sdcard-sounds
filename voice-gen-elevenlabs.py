@@ -37,8 +37,9 @@ client = ElevenLabs(api_key=api_key)
 # Array of languages
 # file, voice ID, language subdir
 languages = [
-    ("voices/pl-PL.csv", "EXAVITQu4vr4xnSDxMaL", "pl"),
+    # ("voices/pl-PL.csv", "EXAVITQu4vr4xnSDxMaL", "pl"),
     # Add other languages here
+    ("voices/vi-VN.csv", "iSFxP4Z6YNcx9OXl62Ic", "vi")
 ]
 
 in_ci = os.environ.get("GITHUB_ACTIONS", "").lower() == "true"
@@ -134,7 +135,7 @@ def process_csv_file(
                     audio_generator = client.text_to_speech.convert(
                         text=tr,
                         voice_id=voice_name,
-                        model_id="eleven_multilingual_v2",
+                        model_id="eleven_v3",
                         output_format="mp3_44100_128",
                     )
 
@@ -167,7 +168,11 @@ def process_csv_file(
                     processed_count += 1
                     fail_streak = 0
                 except Exception as e:
-                    report(f"[{line_count}/{total_rows}] Error processing row: {e}")
+                    progress.console.print(
+                        f"[{line_count}/{total_rows}] Error processing "
+                        f"{row.get('Filename', '<unknown>')}: {type(e).__name__}: {e}",
+                        markup=False,
+                    )
                     progress.update(task_id, advance=1)
                     processed_count += 1
                     fail_streak += 1
@@ -192,6 +197,6 @@ for idx, (csv_file, voice_name, output_dir) in enumerate(languages, 1):
         process_csv_file(csv_file, voice_name, output_dir, idx, total_files)
     except SystemExit as e:
         if e.code == 1:
-            print("\nProcessing interrupted by user.")
+            print("\nProcessing stopped. See the error or interruption details above.")
             sys.exit(1)
         raise
