@@ -1,5 +1,11 @@
 [
   {
+    "language": "ar-SA",
+    "name": "Arabic Female",
+    "description": "Arabic Female Voice (ar-SA-ZariyahNeural)",
+    "directory": "ar"
+  },
+  {
     "language": "cs-CZ",
     "name": "Czech Female",
     "description": "Czech Female Voice (cs-CZ-Vlasta)",
@@ -148,5 +154,11 @@
     "name": "Chinese Hongkong Female",
     "description": "Chinese Hongkong Female Voice",
     "directory": "hk"
+  },
+  {
+    "language": "ka-GE",
+    "name": "Georgian Female",
+    "description": "Georgian Female Voice",
+    "directory": "ka"
   }
 ]

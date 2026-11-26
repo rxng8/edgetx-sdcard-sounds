@@ -29,6 +29,7 @@ class GladosVoiceJob:
 
 
 AZURE_VOICE_JOBS: tuple[AzureVoiceJob, ...] = (
+    AzureVoiceJob("./voices/ar-SA.csv", "ar-SA-ZariyahNeural", "ar"),
     AzureVoiceJob("./voices/cs-CZ.csv", "cs-CZ-VlastaNeural", "cz"),
     AzureVoiceJob("./voices/da_DK.csv", "da-DK-ChristelNeural", "da"),
     AzureVoiceJob("./voices/da_DK_scripts.csv", "da-DK-ChristelNeural", "da/SCRIPTS"),
@@ -61,6 +62,8 @@ AZURE_VOICE_JOBS: tuple[AzureVoiceJob, ...] = (
     AzureVoiceJob("./voices/zh-CN.csv", "zh-CN-XiaoxiaoNeural", "cn"),
     AzureVoiceJob("./voices/zh-TW.csv", "zh-TW-HsiaoChenNeural", "tw"),
     AzureVoiceJob("./voices/zh-HK.csv", "zh-HK-HiuGaaiNeural", "hk", rate="0.9"),
+    AzureVoiceJob("./voices/ka-GE.csv", "ka-GE-EkaNeural", "ka"),
+    AzureVoiceJob("./voices/ka-GE_scripts.csv", "ka-GE-EkaNeural", "ka/SCRIPTS"),
 )
 
 
